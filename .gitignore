@@ -1,0 +1,5 @@
+# Publish only the notebook and its result JSON.
+*
+!.gitignore
+!ЛР6_Лопатін_12.ipynb
+!lr6_результат_12.json
